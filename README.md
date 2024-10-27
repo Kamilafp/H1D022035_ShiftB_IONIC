@@ -38,6 +38,9 @@ Musik bisa di play dengan penambahan asset audio dan juga ada penambahan asset u
 Logika untuk mengakses musik, menggunakan howler library
 ![image](https://github.com/user-attachments/assets/6c676dde-7537-451b-9318-ce5671dab0c3)
 
+tampilan saat musik di play
+![image](https://github.com/user-attachments/assets/427613b6-224b-4ae1-996f-36a48e36ce56)
+
 Logika play dan pause musik
 ![image](https://github.com/user-attachments/assets/ac3f0c98-b321-4dee-ba48-8f9dc4cd6341)
 ![image](https://github.com/user-attachments/assets/aa434af3-85ac-4d5f-ad7f-b96d16581bf5)
